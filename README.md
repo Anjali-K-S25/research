@@ -18,7 +18,6 @@ This project processes research papers to extract summaries, insights, and visua
 - **pubmed_multiple_queries/** – Output of pubmed.  
 - **requirements.txt** – Project dependencies.  
 - **upload_on_neo4j.py** – Upload extracted insights to Neo4j.  
--
 
 
 ## Key Features
